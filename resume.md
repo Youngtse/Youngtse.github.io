@@ -32,11 +32,12 @@ Github：<https://github.com/youngtse>
     * ##### 其他
     使用awk，正则表达式等做过一些Apache服务器日志的统计工作。
     使用sqldiff工具做数据库同步的工作。
+    
 ---
 
 ### 开源项目
 
-*  ### novice-driver
+* ### novice-driver
 
     自己搭的一个用于`Vue`＋`Webpack`开发的框架，目前在完善中。
 
