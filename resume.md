@@ -47,7 +47,7 @@ Github：<https://github.com/youngtse>
 
 ### 技术清单
 
-* 编程语言：`PHP` / `Javascript` / `CSS` / `C`
+* 编程语言：`PHP` / `Javascript` / `C`
 * web框架：`Yaf` / `Laravel 的 ORM` / `express（简单用过）`
 * 前端框架：`Vue` / `Bootstrap` / `JQuery` / `Lodash` / `Requirejs`
 * 前端工具：`Webpack` / `Less` 
