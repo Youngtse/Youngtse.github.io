@@ -1,0 +1,30 @@
+html,
+body,
+.container {
+  height: 100%;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+  min-height: 80vh;
+}
+header,
+footer {
+  height: 60px;
+  background: transparent;
+}
+.container {
+  display: flex;
+  flex: 1;
+}
+.container .main {
+  flex: 1;
+  background: #fff;
+}
+.container .left,
+.container .right {
+  flex: 0 0 100px;
+}
+.container .left {
+  order: -1;
+}
