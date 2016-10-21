@@ -8,7 +8,7 @@
 
 联系电话：18810276892
 
-邮箱：<summer.yang.1109@gmail.com>
+邮箱：<escapesmog@gmail.com>
 
 Github：<https://github.com/youngtse>
 
