@@ -4,13 +4,11 @@
 
 本科，北京理工大学 计算机科学与技术
 
-工作年限：1年
-
 联系电话：18810276892
 
 邮箱：<escapesmog@gmail.com>
 
-Github：<https://github.com/youngtse>
+毕业时间：2015.6
 
 期望职位：前端开发工程师 / PHP开发工程师
 
